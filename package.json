@@ -1,0 +1,21 @@
+{
+  "name": "wdio6_docker",
+  "version": "1.0.0",
+  "description": "Sample script to run Webdriver IO with Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx wdio wdio.conf.js"
+  },
+  "author": "17thSep.net",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/local-runner": "^6.10.5",
+    "@wdio/mocha-framework": "^6.10.4",
+    "@wdio/spec-reporter": "^6.8.1",
+    "@wdio/sync": "^6.10.4",
+    "wdio-docker-service": "^3.0.0"
+  },
+  "dependencies": {
+    "@wdio/cli": "^6.10.5"
+  }
+}
