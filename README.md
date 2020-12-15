@@ -9,5 +9,6 @@ Pre-requirements
 - node.js v12.16.1 or greater
 
 You can watch a video of how we can use docker to run automation scripts in the below link.
+https://youtu.be/NDt4alzH5E0
 
 Thank you
