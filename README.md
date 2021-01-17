@@ -1,4 +1,4 @@
-# WDIO6_Docker
+# WDIO6_Docker (GRID + NODE)
 
 This is a sample script to run WebdriverIO Automation scripts in docker.
 I have added the compose file and the package.json 
